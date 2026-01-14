@@ -1,0 +1,20 @@
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+#bg{
+    height: 500px; 
+    width: 500px;
+    border: 2px solid black;
+ 
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
