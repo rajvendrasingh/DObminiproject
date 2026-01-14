@@ -1,11 +1,4 @@
-.dark{
-    background-color: black;
-    color: white;
-}
-.light{
-    background-color: white;
-    color: black;
-}
+
 #bg{
     height: 500px; 
     width: 500px;
@@ -17,4 +10,5 @@
 }
 .yellow{
     background-color: yellow;
+
 }
